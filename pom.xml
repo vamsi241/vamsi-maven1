@@ -32,7 +32,7 @@
         </configuration>
       </plugin>
       
-      <plugin>  <!-- Create sources.jar -->
+       <plugin>  <!-- Create sources.jar -->
             <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-source-plugin</artifactId>
                 <executions>
